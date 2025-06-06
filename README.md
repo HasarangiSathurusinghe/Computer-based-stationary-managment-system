@@ -1,25 +1,39 @@
-# Computer-based-stationary-managment-system
-This is a computer-based standalone desktop application. Then it can’t be use for customers  and suppliers. only authorized staff members can log in to the system. there are admin, cashier  and storekeeper. 
+<h1>📚 Computer-based Stationary Management System</h1>
 
-Funtions
+  <p>
+    This is a standalone desktop application designed for internal use by authorized staff members only.
+    The system supports three types of users: <strong>Admin</strong>, <strong>Cashier</strong>, and <strong>Storekeeper</strong>.
+    It is not accessible by customers or suppliers.
+  </p>
 
-Staff registration 
-Item Management 
-Categories management
-Order management
-User Management  
+  <h2>🛠️ Functions</h2>
+  <ul>
+    <li>Staff Registration</li>
+    <li>Item Management</li>
+    <li>Categories Management</li>
+    <li>Order Management</li>
+    <li>User Management</li>
+  </ul>
 
-Used Tecnologies 
+  <h2>💻 Used Technologies</h2>
+  <ul>
+    <li>Visual Studio 2019</li>
+    <li>Microsoft SQL Server</li>
+  </ul>
 
-Visual studio 19
-Microsoft sql server
+  <h2>✨ Features</h2>
+  <ul>
+    <li>2 Days Filter</li>
+    <li>Most Demanding Item</li>
+    <li>Least Demanding Item</li>
+    <li>Search by Item Name</li>
+    <li>Create Bill</li>
+  </ul>
 
-Features
+  <h2>🖼️ System Screenshots</h2>
+  
 
-2 days filter
-most deamnding item
-least demanding item
-search by item name
-create bill
-
+  <!-- Example image tag -->
+  <img src="images/LoginPage.jpg" alt="LoginPage" width="600">
+  <img src="images/staff registration.jpg" alt="staff registration" width="600">
 
