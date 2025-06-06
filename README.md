@@ -30,10 +30,5 @@
     <li>Create Bill</li>
   </ul>
 
-  <h2>🖼️ System Screenshots</h2>
-  
 
-  <!-- Example image tag -->
-  <img src="Project Ss/LoginPage.jpg" alt="LoginPage" width="600">
-  <img src="Project Ss/staff registration.jpg" alt="staff registration" width="600">
 
