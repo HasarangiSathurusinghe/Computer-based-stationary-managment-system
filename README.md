@@ -34,6 +34,6 @@
   
 
   <!-- Example image tag -->
-  <img src="images/LoginPage.jpg" alt="LoginPage" width="600">
-  <img src="images/staff registration.jpg" alt="staff registration" width="600">
+  <img src="Project Ss/LoginPage.jpg" alt="LoginPage" width="600">
+  <img src="Project Ss/staff registration.jpg" alt="staff registration" width="600">
 
